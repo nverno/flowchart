@@ -1,0 +1,12 @@
+*~
+.#*
+.*~
+*.fasl
+*.go
+.tern-port
+
+temp/
+
+!.gitignore
+
+
