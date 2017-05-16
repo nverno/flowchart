@@ -1,0 +1,11 @@
+#+TITLE: Notes
+
+* Links
+
+* Notes
+- scheme?
+- picture language (sicp)?
+  + atomic objects as svgs?
+- or, routines on top of artist-mode w/ ditaa?
+- what is that open-source calc app that reads user's writing?
+  + uses boost/c++/etc
